@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+}
+
+.imgedit{
+    width: 75vw;
+    height: 75vh;
+    border-radius: 25px;
+}
+
+.history{
+    display: block;
+}
+
+.vision{
+    display: none;
+}
+
+.goals{
+    display: none;
+}
+
+.history{
+    text-align: center;
+}
